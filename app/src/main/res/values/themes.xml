@@ -1,3 +1,5 @@
+// untuk tampilan gelap
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.PahlawanNasional" parent="Theme.AppCompat.Light.NoActionBar">
